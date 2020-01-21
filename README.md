@@ -1,1 +1,1 @@
-# socketp
+# Socket programming sample code
